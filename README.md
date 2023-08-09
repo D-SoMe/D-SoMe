@@ -35,6 +35,7 @@
 <div align="center">
   <h2>Projects</h2>
   <ul>
+	  <li>🌐 <a href="Project Link">dzire</a>: Developed a responsive website using HTML, and CSS,javascript. Demonstrated proficiency in front-end development and web design.</li>
     <li>🌐 <a href="Project Link">tinDog</a>: Developed a responsive website using Bootstrap, HTML, and CSS. Demonstrated proficiency in front-end development and web design.</li>
   </ul>
 </div>

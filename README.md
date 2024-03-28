@@ -25,7 +25,7 @@
 <div align="center">
   <h2>Achievements</h2>
   <ul>
-    <li>🏆 LeetCode: Achieved a highest rating of 1553 and solved over 466 problems using C++. <a href="https://leetcode.com/Lostone_/">Profile</a></li>
+    <li>🏆 LeetCode: Achieved a highest rating of 1553 and solved over 466 problems using C++. <a href="https://leetcode.com/High_Altitude/">Profile</a></li>
     <li>⭐ HackerRank: Earned a 5-star rating in Problem Solving using C++. <a href="https://www.hackerrank.com/vinitasingh_vst">Profile</a></li>
     <li>🥇 Ranked in the top 4 percentile among 1.4 million students in JEE Mains 2021.</li>
   </ul>
